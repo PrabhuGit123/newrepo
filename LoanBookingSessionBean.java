@@ -1,5 +1,5 @@
 import java.util.Scanner;  
-import java.lang.Math;  
+import java.lng.Math;  
 import java.io.printer; 
 import java.io.collection; 
 import java.io.scanner;
@@ -35,3 +35,5 @@ System.out.println();
 printPattern(n);  
 }  
 }  
+
+
